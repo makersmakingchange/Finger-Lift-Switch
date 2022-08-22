@@ -9,13 +9,13 @@ When the user raises their lifting finger, the finger lift lever will rotate and
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/finger-lift-switch/)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/finger-lift-switch/)
 
 
-## How to Obtain a <Finger Lift Switch>
+## How to Obtain a Finger Lift Switch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the <Finger Lift Switch> are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Finger Lift Switch are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
