@@ -5,7 +5,7 @@ Connect the cable to an assistive device with a 3.5 mm input jack. The user's li
 When the user raises their lifting finger, the finger lift lever will rotate and activate the switch. The switch will de-activate when the user lowers their lifting finger back to the resting surface. 
 
 
-<img src="Photos/Finger_Lift_Switch.jpg" width="500" alt="Picture of Finger Lift Switch.">
+<img src="Photos/Finger_Lift_Switch.png" width="500" alt="Picture of Finger Lift Switch.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/finger-lift-switch/)
